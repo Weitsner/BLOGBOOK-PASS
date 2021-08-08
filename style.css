@@ -8,7 +8,7 @@ Grisesito: DDDDDD
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("img/Eslogan4_blogbook.png");
+    background-image: url("Img/Eslogan4_blogbook.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -156,7 +156,7 @@ p {
 
 .body_oscuro {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("img/Eslogan5_blogbook.png");
+    background-image: url("Img/Eslogan5_blogbook.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
