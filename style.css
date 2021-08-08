@@ -209,12 +209,6 @@ p {
 }
 @media screen and (max-width:800px){
     .formulario {
-    margin: auto;
-    width: 600px;
-    background-color: #ddddddda;
     margin-top: 50%;
-    padding: 10px;
-    border-radius: 20px;
-    box-shadow: 0 0 30px #000000;
 }
 }
